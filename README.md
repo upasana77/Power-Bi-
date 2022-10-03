@@ -10,3 +10,4 @@ STEPS TO DO THE GIVEN PROJECTS:
     CREATING DASHBOARD
     
 https://github.com/upasana77/Power-Bi-/issues/1#issue-1395227267
+https://github.com/upasana77/Power-Bi-/blob/main/Power%20Bi%20Report.jpg
