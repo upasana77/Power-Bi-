@@ -1,4 +1,4 @@
-# Power-Bi-
+# Power-Bi-Superstore Data Analysis
 This repo involves all of my power bi projects
 THIS IS AN END TO END PROJECT, WHERE I HAVE CREATED A DASHBOARD,WHICH IS VERY INTERACTIVE.
 STEPS TO DO THE GIVEN PROJECTS:
